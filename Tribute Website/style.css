@@ -1,0 +1,16 @@
+*{
+    background-color:rgb(206, 233, 241);
+}
+img{
+    width:400px;
+    /* through this the image size became smaller */
+    border-radius: 60%; 
+    height:300px;
+
+}
+.project{
+    font-size: 20px;
+    padding-left: 200px;
+  
+}
+
